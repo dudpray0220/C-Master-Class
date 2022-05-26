@@ -1,0 +1,16 @@
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\bin\Debug\net5.0\1-2.CLR.exe
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\bin\Debug\net5.0\1-2.CLR.deps.json
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\bin\Debug\net5.0\1-2.CLR.runtimeconfig.json
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\bin\Debug\net5.0\1-2.CLR.runtimeconfig.dev.json
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\bin\Debug\net5.0\1-2.CLR.dll
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\bin\Debug\net5.0\1-2.CLR.pdb
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.csproj.AssemblyReference.cache
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.AssemblyInfoInputs.cache
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.AssemblyInfo.cs
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.dll
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\refint\1-2.CLR.dll
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.pdb
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\1-2.CLR.genruntimeconfig.cache
+C:\Users\byh\source\C# Master Class\1-2.CLR\1-2.CLR\obj\Debug\net5.0\ref\1-2.CLR.dll

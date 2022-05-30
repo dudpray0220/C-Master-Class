@@ -20,15 +20,15 @@
 
         // 할당 연산자
         a += 20M;
-        System.Console.WriteLine(a);
+        System.Console.WriteLine(a);    // 30
         a -= 20M;
-        System.Console.WriteLine(a);
+        System.Console.WriteLine(a);    // 10
         a *= 3M;
-        System.Console.WriteLine(a);
+        System.Console.WriteLine(a);    // 30
         a /= 3M;
-        System.Console.WriteLine(a);
+        System.Console.WriteLine(a);    // 10
         a %= 3M;
-        System.Console.WriteLine(a);
+        System.Console.WriteLine(a);    // 1
 
 
         // 증감 연산자
@@ -45,17 +45,17 @@
         // 비교 연산자 (항상 bool 값을 return)
         System.Console.WriteLine();
         bool b1 = a == 10;
-        System.Console.WriteLine(b1);
+        System.Console.WriteLine(b1);   // true
         bool b2 = a != 10;
-        System.Console.WriteLine(b2);
+        System.Console.WriteLine(b2);   // false
         bool b3 = a < 10;
-        System.Console.WriteLine(b3);
+        System.Console.WriteLine(b3);   // false
         bool b4 = a > 10;
-        System.Console.WriteLine(b4);
+        System.Console.WriteLine(b4);   // false
         bool b5 = a <= 10;
-        System.Console.WriteLine(b5);
+        System.Console.WriteLine(b5);   // true
         bool b6 = a >= 10;
-        System.Console.WriteLine(b6);
+        System.Console.WriteLine(b6);   // true
 
 
         // 논리 연산자 (항상 bool 값을 return)

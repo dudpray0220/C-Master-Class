@@ -3,33 +3,33 @@
     static void Main()
     {
         // 초기화
-        int i = 1;
+        int i = 80;
         // while Loop
-        while (i <= 10)
+        do
         {
             System.Console.Write(i + " ");
             i++;
-        }
-        System.Console.WriteLine(); 
+        } while (i <= 10) ;
+            System.Console.WriteLine(); 
 
         // 초기화
         int a = 0;
         // while Loop
-        while (a< 10)
+        do
         {
             System.Console.Write(a + " ");
             a++;
-        }
-        System.Console.WriteLine();
+        } while (a < 10) ;
+            System.Console.WriteLine();
 
         // 초기화
         int b = 9;
         // while Loop
-        while (b >= 0)
+        do
         {
             System.Console.Write(b + " ");
             b--;
-        }
-        System.Console.ReadKey();
+        } while (b >= 0) ;
+            System.Console.ReadKey();
     }
 }

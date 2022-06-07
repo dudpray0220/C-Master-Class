@@ -42,9 +42,7 @@
                 // switch case to check main menu
                 switch (mainMenuChoice)
                 {
-                    case 1:
-                        System.Console.WriteLine("\nHello");
-                        break;
+                    case 1: CustomersMenu(); break;
                     case 2: break;
                     case 3: break;
                     case 4: break;
@@ -60,5 +58,26 @@
 
         System.Console.WriteLine("\nThankyou! Visit Again");
         System.Console.ReadKey();
+    }
+
+
+    static void CustomersMenu()
+    {
+        // variable delcare
+        int customerMenuChoice = -1;
+
+        // do while loop
+        do
+        {
+            System.Console.WriteLine("\n:::Customers Menu:::");
+            System.Console.WriteLine("1. Add Customers");
+            System.Console.WriteLine("2. Delete Customers");
+            System.Console.WriteLine("3. Update Customers");
+            System.Console.WriteLine("4. View Customers");
+            System.Console.WriteLine("0. Back to Main Menu");
+
+            System.Console.Write("Enter Choice: ");
+            customerMenuChoice = System.Convert.ToInt32(System.Console.ReadLine());  
+        } while (customerMenuChoice != 0);
     }
 }

@@ -43,7 +43,7 @@
                 switch (mainMenuChoice)
                 {
                     case 1: CustomersMenu(); break;
-                    case 2: break;
+                    case 2: AccountsMenu(); break;
                     case 3: break;
                     case 4: break;
                     case 5: break;
@@ -79,5 +79,25 @@
             System.Console.Write("Enter Choice: ");
             customerMenuChoice = System.Convert.ToInt32(System.Console.ReadLine());  
         } while (customerMenuChoice != 0);
+    }
+
+    static void AccountsMenu()
+    {
+        // variable delcare
+        int accountsMenuChoice = -1;
+
+        // do while loop
+        do
+        {
+            System.Console.WriteLine("\n:::Accounts Menu:::");
+            System.Console.WriteLine("1. Add Accounts");
+            System.Console.WriteLine("2. Delete Accounts");
+            System.Console.WriteLine("3. Update Accounts");
+            System.Console.WriteLine("4. View Accounts");
+            System.Console.WriteLine("0. Back to Main Menu");
+
+            System.Console.Write("Enter Choice: ");
+            accountsMenuChoice = System.Convert.ToInt32(System.Console.ReadLine());
+        } while (accountsMenuChoice != 0);
     }
 }

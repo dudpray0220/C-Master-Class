@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{81F4DB07-5DC0-413A-A3D4-218D477CDEFD}</ProjectGuid>
+    <ProjectGuid>{68E80A6C-DCCB-4835-860E-2402DB2F75C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassExample</RootNamespace>
-    <AssemblyName>ClassExample</AssemblyName>
+    <RootNamespace>FieldsExample</RootNamespace>
+    <AssemblyName>FieldsExample</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
-      <Project>{bd235b78-09fd-426f-8768-d59a86fc67f7}</Project>
+      <Project>{6cae1e42-55b4-4a6b-b93b-670de07c8ee4}</Project>
       <Name>ClassLibrary1</Name>
     </ProjectReference>
   </ItemGroup>

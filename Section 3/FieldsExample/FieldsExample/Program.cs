@@ -48,3 +48,13 @@
         System.Console.ReadKey();
     }
 }
+
+public class InternationalProduct : Product
+{
+
+}
+
+public class OtherClass2 : OtherClass
+{
+
+}
